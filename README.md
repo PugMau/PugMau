@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [a pharmacy website](https://github.com/4GeeksAcademy/jordimartinez-final-project-32)
 
-- 🌱 I’m currently learning **full-stack develop**
-
 - 👨‍💻 All of my projects are available at [https://github.com/PugMau?tab=stars](https://github.com/PugMau?tab=stars)
 
 - 💬 Ask me about **bootstrap, react, html and css**
