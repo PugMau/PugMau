@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [a pharmacy website](https://github.com/4GeeksAcademy/jordimartinez-final-project-32)
 
+- 🌱 I’m currently learning **full-stack develop**
+
 - 👨‍💻 All of my projects are available at [https://github.com/PugMau?tab=stars](https://github.com/PugMau?tab=stars)
 
 - 💬 Ask me about **bootstrap, react, html and css**
@@ -13,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anthonny jhoseph miranda prieto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonny jhoseph miranda prieto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anthonny-miranda-prieto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonny-miranda-prieto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
